@@ -14,6 +14,7 @@ También se incluye un CRUD independiente para la gestión de carreras, con vali
 [Vista del listado de estudiantes](public/images/Captura%20de%20pantalla%202025-11-09%20105035.png)  
 [Vista del formulario de nuevo estudiante](public/images/Captura%20de%20pantalla%202025-11-09%20105036.png)
 [Vista del formulario de carreras](public/images/Captura%20de%20pantalla%202025-11-09%20105137.png)
+[Vista del boton eliminar](public/images/Captura%20de%20pantalla%202025-11-09%20112939.png)
 
 ------------------------------------------------------------
 
